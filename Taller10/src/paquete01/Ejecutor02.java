@@ -7,10 +7,6 @@ package paquete01;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author reroes
- */
 public class Ejecutor02 {
     public static void main(String[] args) {
         
